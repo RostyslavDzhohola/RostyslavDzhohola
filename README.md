@@ -1,8 +1,8 @@
 # Hi, I'm Rostyslav
 
 ## Current Projects
-- [OpenClicky](https://github.com/RostyslavDzhohola/openclicky) - Open-source macOS menu bar voice companion for Claude and Codex.
-- [Learn Japanese](https://7-day-japanese.com/) - Closed-source seven-day Japanese learning app.
+- [OpenClicky](https://github.com/RostyslavDzhohola/openclicky) - A refactor of Farza's project—an open-source version that uses your existing Claude Code or Codex subscription.
+- [Learn Japanese](https://7-day-japanese.com/) - Closed-source Japanese learning app.
 - [HiredClaw](https://hiredclaw.com) - OpenClaw setups for founders and small teams.
 - [Outliers](https://github.com/RostyslavDzhohola/free-sort-feed-extension) - Open-source Chrome extension.
 
